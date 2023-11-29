@@ -7,8 +7,8 @@ const ProjectCard = ({ imgsrc, imgalt, heading, paragraph, github, deployed }) =
                     <h1>{heading}</h1>
                     <p className="card-text flex-fill">{paragraph}</p>
                     <div className="mt-auto">
-                        <a className="btn btn-outline-primary me-2" href={github} target="_blank" rel="noopener noreferrer">GitHub Repo</a>
-                        <a className="btn btn-outline-primary" href={deployed} target="_blank" rel="noopener noreferrer">Deployed Site</a>
+                        <a className="btn btn-outline-light me-2" href={github} target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+                        <a className="btn btn-outline-light" href={deployed} target="_blank" rel="noopener noreferrer">Deployed Site</a>
                     </div>
                 </div>
             </div>

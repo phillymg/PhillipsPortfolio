@@ -21,7 +21,9 @@ There are no installation instructions.
 
 ## Usage
 
-There is no usage information.
+Click this link to view my portfolio!
+
+https://phillymg.github.io/PhillipsPortfolio/
 
 
 ## License
