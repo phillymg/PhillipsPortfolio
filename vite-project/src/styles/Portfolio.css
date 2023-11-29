@@ -5,3 +5,8 @@
 img {
     height: 50%;
 }
+
+.portfoliocard {
+    background-color: #03246cd5;
+    color: rgb(249, 249, 249);
+}

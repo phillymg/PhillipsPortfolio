@@ -7,19 +7,12 @@ import bookInventory from '../assets/images/BookInventory.jpg';
 import noteTaker from '../assets/images/NotetakerApp.jpg';
 import weatherApp from '../assets/images/WeatherApp.jpg';
 import passwordGenerator from '../assets/images/PasswordGenerator.jpg'
-import employeeTracker from '../assets/images/EmployeeTracker.jpg'
-
 
 
 export default function Portfolio() {
     return (
-        <div>
-            <h1>Portfolio Page</h1>
-            <p>
-                View my portfolio.
-            </p>
-
-            <div className="container text-center">
+        <div className='portfolio'>
+            <div className="container text-center pt-4">
                 <div className="row">
                     <ProjectCard imgsrc={movieMachine} imgalt="Movie Machine Site" heading="Magic Movie Machine"
                         paragraph="" github="https://github.com/andmell/movie-generator" deployed="https://andmell.github.io/movie-generator/">

@@ -1,4 +1,9 @@
+.navstyle a.nav-link {
+    color: #90CAE0;
+    font-size: 18px;
+}
+
 .navstyle a.nav-link.active {
-    color: #5555DB;
+    color: #176efb;
     font-size: 18px;
 }

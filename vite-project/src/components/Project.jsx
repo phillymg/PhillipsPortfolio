@@ -1,7 +1,7 @@
 const ProjectCard = ({ imgsrc, imgalt, heading, paragraph, github, deployed }) => {
     return (
         <div className="col-lg-4 col-md-6 col-sm-12 mb-4">
-            <div className="card p-2 shadow-lg d-flex flex-column h-100">
+            <div className="card p-2 shadow-lg d-flex flex-column h-100 portfoliocard">
                 <img src={imgsrc} className="card-img-top" alt={imgalt} />
                 <div className="card-body flex-fill d-flex flex-column">
                     <h1>{heading}</h1>
