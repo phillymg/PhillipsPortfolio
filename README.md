@@ -23,7 +23,7 @@ There are no installation instructions.
 
 Click this link to view my portfolio!
 
-https://phillymg.github.io/PhillipsPortfolio/
+https://65692499a883aa287c59158d--papaya-horse-bb1ac8.netlify.app/Portfolio
 
 
 ## License
