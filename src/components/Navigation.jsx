@@ -11,8 +11,8 @@ function Navigation() {
         <ul className="nav nav-tabs justify-content-end navstyle">
             <li className="nav-item">
                 <Link
-                    to="/AboutMe"
-                    className={currentPage === '/AboutMe' ? 'nav-link active' : 'nav-link'}
+                    to=""
+                    className={currentPage === '' ? 'nav-link active' : 'nav-link'}
                 >
                     About Me
                 </Link>

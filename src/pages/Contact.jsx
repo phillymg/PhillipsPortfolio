@@ -27,6 +27,7 @@ export default function Contact() {
                 </div>
                 <button type="submit" className="contactbtn btn btn-primary mt-3">Submit</button>
             </form>
+            <p>(form not functional, feel free to reach me at phillipmguetterman@att.net)</p>
         </div>
     );
 }
