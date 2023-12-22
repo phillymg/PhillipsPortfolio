@@ -14,6 +14,13 @@ const Resume = () => {
                     <li>Minor: Business Administration</li>
                     <li>Awards: Cougar Pride Scholarship, Member of National Honors Society</li>
                 </ul>
+                <h4>Full Stack Web Delopment Bootcamp | Washington University St. Louis</h4>
+                <p className="fst-italic">Nov 2023</p>
+                <ul>
+                    <li>Worked with many different languages and technologies including: MongoDB, React, Express, MERN Stack, PWA, mySQL, noSQL, Handlebars</li>
+                    <li>Created front-end, back-end, and full-stack web applications</li>
+                    <li>Experienced working in groups, collaborating on developing an idea and building it from the ground up</li>
+                </ul>
             </details>
 
             <details open>
